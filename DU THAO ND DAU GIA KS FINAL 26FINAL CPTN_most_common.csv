@@ -1,0 +1,805 @@
+Term,Frequency
+chính_phủ,36
+số,663
+nđcp,31
+cộng,27
+hòa,26
+xã_hội,32
+chủ_nghĩa,30
+việt_nam,137
+độc_lập,30
+tự_do,45
+hạnh_phúc,30
+hà_nội,11
+dự_thảo,2
+nghị_định,77
+quy_định,198
+chi_tiết,20
+luật,37
+viễn_thông,820
+quản_lý,77
+kho,54
+tài_nguyên,59
+internet,65
+bồi_thường_khi,17
+nhà_nước,33
+thu_hồi,67
+mã_số,384
+internet_đấu_giá,13
+quyền,177
+tên_miền,157
+quốc_gia,112
+việt_nam_vn,11
+căn_cứ,67
+tổ_chức,194
+sửa_đổi,3
+bổ_sung,4
+chính_quyền,1
+địa_phương,1
+luật_đấu_giá,4
+tài_sản,11
+công đề_nghị,1
+bộ_trưởng,21
+thông_tin,248
+truyền_thông,148
+ban_hành,39
+chương_i,1
+phạm_vi,10
+điều_chỉnh,2
+khoản,26
+“,93
+vn,104
+”,93
+đối_tượng,12
+áp_dụng,39
+cơ_quan,23
+hoạt_động,44
+giao,3
+nhiệm_vụ,24
+doanh_nghiệp,250
+phân_bổ,268
+đấu_giá,185
+chuyển_nhượng,232
+giải_thích,1
+từ_ngữ,2
+bao_gồm,27
+ấn_định,6
+hoàn_trả,31
+thuê,115
+thuê_bao,403
+đổi,76
+quy_hoạch,22
+khai_thác,49
+khai_báo,3
+hệ_thống,25
+kỹ_thuật,14
+thành_viên,1
+dịch_vụ,251
+viễn_thông_sử_dụng,3
+truy_nhập mạng,1
+viễn_thông_dịch_vụ,2
+ứng_dụng,29
+tự_nguyện,1
+quyết_định,97
+thu,4
+phương_thức,73
+di_động,154
+hh,68
+mm,20
+mạng,75
+cố_định,44
+mặt_đất,40
+vệ_tinh,13
+điện_thoại,64
+gọi,33
+giá,24
+nhắn,22
+ngắn,22
+giải_đáp,26
+thông_tin mã,5
+hh mã,3
+mm mã,2
+quốc_tế,19
+thanh_toán,13
+tiền_sử_dụng,5
+nước_ngoài mã,3
+truyền,11
+số_liệu mã,5
+voip mã,3
+khai_thác mã,8
+nhận_dạng mạng,21
+mặt_đất mã,3
+điểm_báo_hiệu,23
+quốc_tế mã,2
+nghiệp_vụ,5
+khối,24
+tập_hợp,4
+liền,2
+kề,1
+chữ_số,2
+hàng,10
+chục,1
+trăm,1
+thống_nhất,8
+cung_cấp,43
+nội_dung,27
+nhắn_tin mạng,1
+hướng_dẫn,10
+phản_ánh,2
+tư_vấn,1
+thông_thường,1
+văn_hóa,1
+kinh_tế,1
+phương_thức thoại,1
+human,2
+to,1
+giao_tiếp mã,1
+giao_tiếp,1
+trung_tâm,8
+trực_thuộc,4
+trách_nhiệm,64
+điều_chế_độ,1
+báo_cáo,86
+định_kỳ,3
+cục,79
+văn_bản,31
+số_liệu,39
+tình_hình,22
+mẫu_số,106
+phụ_lục,34
+kèm,45
+chính_xác,7
+kịp_thời,2
+trường_hợp,75
+cần_thiết,3
+chứng_minh,13
+phối_hợp,10
+thẩm_tra,1
+phí,21
+lệ_phí,21
+nộp,52
+nhận,62
+pháp_luật phí,2
+vòng,3
+thời_hạn,28
+thông_báo,33
+lệ_phí chương,1
+ii,1
+mục,4
+thủ_tục,22
+hồ_sơ,39
+đề_nghị,81
+a đơn,6
+b,86
+bản_sao,27
+giấy,34
+chứng_nhận,32
+đăng_ký,76
+đầu_tư,17
+chứng_thực,11
+thành_lập,8
+c,58
+giấy_phép,31
+kinh_doanh,18
+d,34
+kế_hoạch,45
+đ,14
+hiệu_suất,63
+trở_đi,19
+trình_tự,9
+a tổ_chức,5
+hình_thức,8
+trực_tuyến,13
+cổng,27
+công_quốc_gia,10
+httpdichvucong,10
+gov,10
+công trực_tuyến,10
+mic,5
+bưu_chính,14
+hợp_lệ,12
+thẩm_định,6
+ban_hành_quyết_định,10
+từ_chối,11
+trả_lời,3
+nêu,19
+niêm_yết,18
+lựa_chọn,18
+kết_quả,30
+truyền_thông_dịch_vụ,5
+tài_liệu,14
+điểm,7
+điều_áp_dụng,1
+nhân_dân,10
+căn_cước,17
+công_dân,6
+a,41
+trúng,79
+làm_việc,7
+hạ_tầng mạng,17
+cấp_phép,15
+a hiệu_suất,8
+tối_thiểu,22
+đầu,24
+tổng_số,12
+thuê_bao mạng,5
+đánh_số,2
+số_lượng,141
+xác_định,19
+tối_đa,11
+a phân_bổ,3
+bé,5
+đáp_ứng,13
+khả_năng,2
+khẩn_cấp,1
+tiếp_nhận,3
+cuộc_gọi,1
+đi,21
+gửi,24
+nhắn phân_bổ,1
+hợp_đồng,43
+mua_bán,8
+nhắn ngắn,5
+phân_bổ a,1
+pháp_luật,96
+chức_năng,21
+ngành_nghề,2
+thông_tin mạng,2
+tối_đa_số,2
+giới_hạn,2
+phân_bổ mã,21
+mã mạng,8
+đấu_giá mã,4
+hiệu_suất mã,14
+tổng_số mã,6
+số_lượng mã,9
+doanh_nghiệp mã,6
+phương_thức mã,1
+nước_ngoài,5
+cước,1
+làm,12
+dự_phòng,5
+tỷ_lệ,5
+mã,5
+tối_đa mã,3
+voip,2
+dịch_vụ mạng,1
+mặt_đất mạng,2
+vệ_tinh mạng,2
+đường,2
+liên_kết,2
+báo_hiệu,4
+signaling,1
+links,1
+kết_nối mạng,2
+báo_hiệu_số,2
+ss,1
+quốc_gia mã,1
+mã mã,2
+tối_thiểu mã,1
+phục_vụ_lợi_ích,5
+công_cộng,5
+quốc_phòng,6
+an_ninh,6
+mục_đích,14
+toàn_quốc,2
+điều_hành,2
+khai_thác mạng,2
+nội mạng,2
+đăng_ký_hủy,1
+kiểm_tra,4
+trạng_thái,2
+tra_cứu,1
+gia_tăng,1
+thời_kỳ,2
+dịch_vụ mục,1
+nguyên_tắc,2
+bội_số,1
+tương_ứng,5
+xác_nhận,28
+chấp_nhận,13
+hiệu_lực,14
+chấm_dứt,5
+bảo_đảm,11
+lợi_ích,11
+hợp_pháp,15
+điều_luật,11
+xử_phạt,2
+biện_pháp,11
+khắc_phục,1
+hậu_quả,1
+a b,13
+công_bố,8
+điện_tử,7
+pháp_luật mục,1
+a dung_lượng,1
+nhu_cầu,4
+phát_triển,8
+mạng_lưới,3
+hiệu_quả,4
+công_nghệ,1
+chính_sách,2
+xây_dựng,6
+triển_khai,9
+phương_tiện,4
+đại_chúng,3
+ngày_trước,1
+tiến_hành,4
+cách_thức,3
+giảm_thiểu,3
+liên_lạc,3
+bồi_thường,30
+thiệt_hại,1
+gián_tiếp lợi,1
+viễn_thông độ,5
+cấu_trúc,6
+a doanh_nghiệp,6
+chấp_thuận,4
+viễn_thông_báo_cáo,1
+chỉ_đạo,1
+loại_hình,3
+viễn_thông_gắn,1
+tham_gia,24
+quyền_lợi_ích,2
+lập,12
+thành_văn_bản,1
+thành,5
+lưu_lượng,2
+e kế_hoạch,1
+g,9
+ký,45
+bản_gốc,7
+phát_hiện,3
+vi_phạm,8
+ngừng,7
+hợp_đồng khắc_phục,1
+xong,1
+điều_này,1
+quản_lý_số,1
+phương_án,7
+quý báo_cáo,2
+a quản_lý,1
+hiện_hành,1
+nghị_định chương,1
+iii,3
+tiền,35
+quy_trình,2
+ngân_sách,6
+bất_khả_kháng,2
+a điểm,2
+duy_trì,7
+trường_hợp_thời_hạn,1
+tròn,1
+pháp_luật chương,1
+iv,1
+việt nam,8
+bảo_mật,1
+tài_khoản,6
+truy_cập,1
+kiểm_duyệt,1
+lưu_trữ,2
+chứng_minh_thư,3
+định_danh,2
+kinh_phí,4
+vận_hành,2
+phê_duyệt,16
+danh_sách,10
+thông_qua,4
+ký_tự,4
+chữ_cái,4
+bảng,27
+tiếng,6
+chữ,4
+việt,2
+tự_nhiên,2
+c trừ,1
+bảo_vệ,1
+danh_mục,1
+hoàn_thành,3
+nghĩa_vụ,11
+tài_chính,4
+đầy_đủ,8
+tần_số,1
+công_ích,1
+cam_kết,28
+a đối_tượng,1
+cấm,1
+cá_nhân_tài_khoản,1
+trung_thực,3
+kê_khai_thông_tin,1
+tiết_kiệm,1
+thị_trường,1
+dự_toán,2
+khởi_điểm,1
+e tình_huống,1
+f,3
+biên_bản,3
+hoà_mạng,2
+hòa mạng,2
+dịch_vụ mã,1
+hh_gắn,3
+tối_thiểu phép,1
+nguyên số,1
+hoàn_tất,5
+chương_v,1
+trường_hợp_số,1
+thỏa_thuận,5
+ảnh_hưởng,5
+đồng_ý,2
+hai,3
+tờ,1
+khai,5
+thuế,19
+thu_nhập,6
+sở,13
+công,1
+công dịch_vụ,1
+cập_nhật,1
+tuân_thủ,3
+tên_miền quốc_gia,4
+thực_hiện_tại,1
+tạm,3
+dấu,3
+chữ_ký,5
+đại_diện,36
+chủ_thể,28
+đứng_tên,1
+xem_xét,4
+duyệt,4
+tên_miền phép,1
+giấy_tờ,9
+e,4
+lưu_giữ,18
+điều_quyền,1
+giao_dịch,7
+thuế_phí,3
+kế_thừa,1
+dừng,5
+hủy,4
+coi,1
+gian_dối,1
+sai_lệch,1
+giả_mạo,1
+hành_vi,1
+vi_phạm_quy_định,2
+giải_quyết,4
+tranh_chấp,4
+buộc,1
+giao_dịch_chuyển_nhượng,3
+hủy_bỏ,1
+xác_lập,1
+phát_sinh,3
+do_hủy,1
+điều_chuyển_đổi,1
+chuyển_đổi,20
+a chuyển_đổi,1
+tặng,2
+góp,3
+vốn,3
+thừa_kế,3
+thẩm_quyền,3
+chia,1
+tách,1
+sáp_nhập,1
+hợp_nhất,1
+cổ_phần,1
+công_ty_mẹ,1
+công_ty_con,1
+biểu mẫu_số,1
+sổ,1
+gốc,1
+đối_chiếu,1
+bản_chính,1
+đăng_ký_tên_miền,8
+chương_vi,1
+thuê_bao độ,1
+viễn_thông mạng,1
+phục_vụ,2
+đảng,2
+vi_phạm_quy_hoạch,1
+kết_nối,4
+thu_thập,1
+quản_lý_số_liệu,3
+hệ_thống_thiết_bị,1
+giám_sát,2
+thống_kê,5
+thanh_tra,2
+khiếu_nại,3
+tố_cáo,2
+tuyên_truyền,1
+địa_bàn,2
+khiếu_kiện,1
+xảy,1
+chủ_trì,4
+trái,1
+cơ_sở,1
+dữ_liệu,1
+công_tác,1
+nhu_cầu chương,1
+vii,1
+điều_khoản,3
+thi_hành,19
+ngành,1
+thủ_trưởng,5
+ngang,2
+chủ_tịch,2
+ủy_ban,4
+tỉnh_thành_phố,4
+trung_ương,4
+nơi_nhận,6
+ban,3
+bí_thư,1
+thủ_tướng,2
+phó_thủ_tướng,1
+cp,1
+hđnd,1
+ubnd,2
+tỉnh,5
+tp,1
+tw,1
+văn_phòng,12
+đảng văn_phòng,1
+tổng_bí_thư,1
+hội_đồng,1
+dân_tộc,1
+quốc_hội,2
+tòa_án,1
+tối_cao,2
+viện_kiểm_sát_nhân_dân,1
+kiểm_toán,1
+ngân_hàng,3
+ubtw,1
+mặt_trận,1
+tổ_quốc,1
+đoàn_thể,1
+vpcp,1
+btcn,1
+pcn,1
+trợ_lý,1
+ttgcp,1
+tgđ,1
+ttđt,1
+vụ,5
+công_báo,1
+lưu văn_thư,1
+kgvx,1
+tm,1
+phạm_minh_chính,1
+đơn,20
+mẫu,1
+tổ,15
+chứcdoanh_nghiệp,6
+kính,16
+chế_độ,3
+tổ_chứcdoanh nghiệp,33
+trụ_sở,22
+địa_chỉ,49
+hữu_tuyến,4
+vô_tuyến,4
+chủ,8
+lũy kế,11
+giờ_phút,14
+tt mã,7
+thành_phố,5
+khóa,32
+chiều,66
+tổng_cộng,10
+tổng_,6
+quảng_ninh,3
+cab,10
+_e,8
+gde,4
+hcg,4
+i,7
+_k l,1
+hi_k,3
+bắc_giang,3
+_k,3
+l,2
+⁞,16
+kiên_giang,3
+sóc_trăng,3
+aaa,5
+bbb,5
+ccc,5
+ddd,5
+eee,5
+ggg,3
+hhh,3
+kkk,2
+ghi_chú,16
+sắp_xếp mã số,3
+trạm,1
+vsat,1
+trung kế,1
+truyền_dẫn,1
+cd_e,6
+mã_mạng,2
+kích_hoạt,8
+chờ,4
+phát_hành,4
+_l,2
+m,2
+n,3
+hi_m,3
+lll,1
+mll,1
+a bảng_a,1
+đên mạng,1
+nợ,2
+cước_phí,2
+a sắp_xếp,1
+sim,2
+kênh,2
+phân_phối,2
+đại_lý,2
+_e g,2
+_h,2
+cd_h,3
+⁞ ⁞,10
+sắp_xếp mã,1
+hệ_thống mã,1
+khối mã,5
+liệt_kê mã,2
+dac mã,1
+bảng số,2
+tt,5
+địa_chỉ_số,1
+email,36
+a số_lượng,2
+dac,2
+lũy,2
+kế giờ_phút,1
+trực,1
+tiếpđấu,1
+viễn_thông mã,2
+liên_hệ,14
+ghi,39
+chức_danh,19
+đóng_dấu,32
+tổ_chứcdoanh_nghiệp,13
+a tổ_chứcdoanh_nghiệp,1
+đầu_mối,9
+chức_vụ,15
+a mã_số,1
+ví_dụ,34
+abcdef mã,1
+hiện_trạng,1
+phân_bổ phí,1
+hạn,8
+trường_hợp_đề_nghị,1
+trở,1
+tổ_chứcdoanh,5
+nghiệp_báo_cáo,3
+viễn_thông_số,25
+viễn_thông_tư_vấn,1
+hạ_tầng,1
+lịch_trình,1
+dự_kiến,3
+định_tuyến,1
+gắn,1
+quy_mô,1
+lộ_trình,1
+email_hiệu_suất,1
+stt,17
+dab,2
+qđcvt,8
+cục_trưởng,16
+qh,13
+quyền_hạn,17
+cơ_cấu,17
+xét,5
+mã_số độ,2
+phạm_vi_phân_bổ,2
+chánh,9
+trưởng_phòng,13
+giám_đốc,9
+thi_hành_quyết_định,7
+lưu vt,7
+ký_tên,15
+chứcdoanh,11
+nghiệpcá_nhân,2
+quốc_tịch sinh,2
+nam_nữ,2
+cmndcccdcc,9
+đkkd,11
+tưquyết định,1
+vế,2
+tttt,3
+qđbtttt,15
+sms,1
+cam_đoan,3
+sự_thật,2
+sai,1
+nghiệpcá nhân,11
+tổng_giám_đốc,2
+hoàn_trả mã,1
+viễn thôngví,1
+dụ,1
+giải_pháp_bảo_đảm,1
+ngàythángnăm,2
+lệ_phí phí,1
+khai_thác mã_số,1
+như_điều,5
+th,1
+hải_phòng,2
+abcd,4
+e đổi,2
+thực_hiện_thực_hiện,2
+kinh daonh,1
+rà_soát,1
+nhân_lực,1
+vật_lực,1
+giai_đoạn,1
+bước_tiến_hành,1
+đơn đề_nghị,1
+a triển_khai,1
+vướng_mắc,1
+a số,1
+quantổ,3
+kế thuê_bao,1
+khối_số,1
+lỹ kế,1
+hợp,1
+đồngthỏa_thuận,1
+thời_điểm_báo_cáo,1
+chứcdoanh nghiệp,1
+đồng,5
+bằng_chữ,5
+hưởng,2
+năm_sinh,1
+đồng_bằng,1
+tổ_chứccá,1
+nhân quan,1
+vụ_trưởng,4
+pháp_chế,2
+lưu_vt,3
+đấu giá,2
+chi_nhánh,1
+ngoại việt_nam,1
+–,1
+sở_hữu,5
+đấu_giá_như,2
+cn,1
+thue,1
+bao,1
+nhất_trí,1
+tổng_giá_trị,1
+đặt_cọc,1
+nguồn_gốc,1
+thoả_thuận,1
+ủy,4
+qđstttt,1
+qđ,1
+tỉnhthành,3
+phố,3
+cộng_hoà,4
+đăng_ký hạn,1
+viết,5
+thay_mặt,2
+chứng_minh nhân,5
+dânsố,5
+thẻ,5
+công dânsố,5
+hộ_chiếu,5
+a trường_hợp,1
+bình_thường,2
+trân_trọng,4
+ký_số,1
+nơi_cấp,1
+thuế_tôi,1
+kê_khai,1
+doanh_thu,1
+nđk,1
+tắt,2
+việt_nam_số,2
+fax,1
+email_postcode,1
+fax_email,1
+postcode,1
+lí_do,2
+đóng,2
+dấuký,2
+pháp_nhân,2
+lưu_ý,1
+bắt_buộc,1
